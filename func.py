@@ -2,7 +2,7 @@
 # -*- coding: UTF-8 -*-
 """
 程序通用函数库
-作者：wking [http://wkings.net]
+作者：fq [http://wkings.net]
 """
 
 import os
